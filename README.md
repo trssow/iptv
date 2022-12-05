@@ -1,2 +1,2 @@
 # iptv
-git push origin master
+git add
